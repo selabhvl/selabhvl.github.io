@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hei, we're the Software Engineering research group at HVL!
+Our "institutional home" is <https://www.hvl.no/en/research/group/software-engineering/>.
+Here, we provide additional content as part of our social media efforts, as well as other
+information.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Group members
+<!-- as per https://www.hvl.no/en/research/group/software-engineering/ -->
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Lars Michael Kristensen (prof.) [@ HVL](https://www.hvl.no/en/employee/?user=Yngve.Lamo)
+* Yngve Lamo (prof.) [@ HVL](https://www.hvl.no/en/employee/?user=Yngve.Lamo)
+* Rogardt Heldal (prof.) [@ HVL](https://www.hvl.no/en/employee/?user=Yngve.Lamo)
+* Adrian Rutle (prof.) [@ HVL](https://www.hvl.no/en/employee/?user=Yngve.Lamo)
+* Volker Stolz (prof.) [@ HVL](https://www.hvl.no/en/employee/?user=Yngve.Lamo)
+* Tosin Oyetoyan (assoc. prof.) 
+* Ka I Pun (assoc.prof.)
+* Ming-Chang Lee (post-doc)
 
+## External/part-time members
 
-[jekyll-organization]: https://github.com/jekyll
+* Harald König (FHDW) (prof. II)
+* Einar Broch Johnsen (UiO) (prof. II)
+* Ferruccio Damani (University of Torino) (prof. II)
