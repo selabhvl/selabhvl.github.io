@@ -1,0 +1,36 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  {%- assign m = site.data.members | where: "shortname",page.author -%}
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if page.author -%}
+              {{ m.displayname | escape }}
+            {%- else -%}
+              {{ page.title | escape }}
+            {%- endif -%}
+            </li>
+            <li><a class="u-email" href="mailto:{{ page.author }}@hvl.no">{{ m[0].displayname }} (email)</a></li>
+	    <li>{{ m[0].title | capitalize }}</li>
+	  </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include usersocial.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- page.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
