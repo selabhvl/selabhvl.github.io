@@ -5,8 +5,6 @@ date:   2023-07-12 12:56:14 +0200
 categories: update
 author: Volker Stolz <vsto@hvl.no>
 ---
-# HEDA 2023: 3rd International Health Data Workshop, 21 July 2023, colocated with STAF
-
 [Violet Ka I Pun](/about#vpu) from our Software Engineering research group and Wendy McCaull from St. Francis Xavier University
 are running the 3rd International Health Data Workshop in Leicester, UK.
 
