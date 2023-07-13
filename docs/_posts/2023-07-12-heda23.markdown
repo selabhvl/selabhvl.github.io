@@ -12,3 +12,5 @@ The workshop also features two contributions from our colleagues on eye tracking
 
 See <https://conf.researchr.org/home/staf-2023/heda-2023#program> for the full program.
 If you're attending [STAF](https://conf.researchr.org/home/staf-2023/), please drop by!
+
+The proceedings are available here: <https://ceur-ws.org/Vol-3440/>
