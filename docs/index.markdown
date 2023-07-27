@@ -20,8 +20,9 @@ the University of Extremadura (ES), the [University of Lübeck (DE)](https://www
 ## Selected Research Projects
 
 * [SFI Smart Ocean](https://sfismartocean.no): Technology for monitoring and management of a healthy and productive ocean. Work Package leader for Software Technology in Centre for Research-based Innovation.
-* [CROFLOW](https://croflow.github.io): Enabling Highly Automated Cross-Organisational Workflow Planning
+* [CROFLOW](https://croflow.github.io): Enabling Highly Automated Cross-Organisational Workflow Planning. Funded by the Norwegian Research Council.
 * [DYNAMIC](https://www.hvl.no/en/project/2495578/): Reducing Fire Disaster Risk through Dynamic Risk Assessment and Management. Funded by the Norwegian Research Council.
+* [PiV](https://helse-bergen.no/piv/workflow-optimization): Pathology services in the Western Norway Health Region – a centre for applied digitization. Workpackage on Workflows. Funded by Helse Vest.
 * [COEMS](https://coems.eu): Continuous Observation of Embedded Multicore Systems. An EU H2020 funded RIA project.
 * [INTROMAT](https://intromat.no): Introducing Personalized Treatment of Mental Health Problems using Adaptive Technology. IKTPLUSS Lighthouse project funded by the Norwegian Research Council.
 
