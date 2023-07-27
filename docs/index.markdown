@@ -15,14 +15,15 @@ The group has a particular strong research track record in the areas of model-dr
 Our research group is involved in several projects in the areas of health-care, embedded systems, robotics and industrial automation, internet-of-things and cloud computing services, machine learning, and automotive software systems.
 
 Furthermore, we have research collaboration with many national and international research institutions, and several national and international companies:
-the University of Extremadura (ES), the University of Lübeck (DE), University of Oslo (NO), the University of Stavanger (NO), and the University of Torino (IT).
+the University of Extremadura (ES), the [University of Lübeck (DE)](https://www.isp.uni-luebeck.de), University of Oslo (NO), [the University of Stavanger (NO)](https://www.ux.uis.no/~meling/), and [the University of Torino (IT)](https://www.cs.unito.it/do/home.pl).
 
 ## Selected Research Projects
 
+* [SFI Smart Ocean](https://sfismartocean.no): Technology for monitoring and management of a healthy and productive ocean. Work Package leader for Software Technology in Centre for Research-based Innovation.
+* [CROFLOW](https://croflow.github.io): Enabling Highly Automated Cross-Organisational Workflow Planning
+* [DYNAMIC](https://www.hvl.no/en/project/2495578/): Reducing Fire Disaster Risk through Dynamic Risk Assessment and Management. Funded by the Norwegian Research Council.
 * [COEMS](https://coems.eu): Continuous Observation of Embedded Multicore Systems. An EU H2020 funded RIA project.
 * [INTROMAT](https://intromat.no): Introducing Personalized Treatment of Mental Health Problems using Adaptive Technology. IKTPLUSS Lighthouse project funded by the Norwegian Research Council.
-* [DYNAMIC](https://www.hvl.no/en/project/2495578/): Reducing Fire Disaster Risk through Dynamic Risk Assessment and Management. Funded by the Norwegian Research Council.
-* [SFI Smart Ocean](https://sfismartocean.no): Technology for monitoring and management of a healthy and productive ocean. Work Package leader for Software Technology in Centre for Research-based Innovation.
 
 Our "institutional home" is <https://www.hvl.no/en/research/group/software-engineering/>.
 
