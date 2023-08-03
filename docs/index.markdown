@@ -48,4 +48,5 @@ Our "institutional home" is <https://www.hvl.no/en/research/group/software-engin
 
 {% for member in site.data.stips -%}
 * {{ member.displayname }} [[@ HVL](https://www.hvl.no/en/employee/?user={{member.urlname}})]
+{%- unless member.extinfo == "" %} {{member.extinfo}} {% endunless %}
 {% endfor %}
