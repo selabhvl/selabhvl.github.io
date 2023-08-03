@@ -5,7 +5,7 @@ date:   2023-07-12 12:56:14 +0200
 categories: update
 author: Volker Stolz <vsto@hvl.no>
 ---
-[Violet Ka I Pun](/about#vpu) from our Software Engineering research group and Wendy McCaull from St. Francis Xavier University
+[Violet Ka I Pun](/#vpu) from our Software Engineering research group and Wendy McCaull from St. Francis Xavier University
 are running the 3rd International Health Data Workshop in Leicester, UK.
 
 The workshop also features two contributions from our colleagues on eye tracking.
