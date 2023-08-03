@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Tim Kräuter and co-authors win «Best Software Science Paper» Award at ICGT 2023"
+date:   2023-08-02 12:56:14 +0200
+categories: update
+author: Volker Stolz <vsto@hvl.no>
+---
+Our PhD student Tim Kräuter presented the paper at ICGT in Leicester.
+
+![Tim presenting](https://foldr.org/selabhvl/2023/Tim_ICGT.jpg){:class="img-responsive"}
+
+## ICGT 2023
+ICGT, the **International Conference on Graph Transformation** aims at fostering exchange and collaboration of researchers from different backgrounds working with graphs and graph transformation, either in contributing to their theoretical foundations or by applying established formalisms to classical or novel areas.
+
+The [16th edition of ICGT](https://conf.researchr.org/home/icgt-2023) took place in Leicester, United Kingdom, July 19-20, 2023 as part of [STAF 2023](https://conf.researchr.org/home/staf-2023) (Software Technologies: Applications and Foundations).
+
+## The paper
+
+The award winning paper has the title «Formalization and Analysis of BPMN Using Graph Transformation Systems». It is published in the ICGT 2023 conference proceedings and can be found [here](https://doi.org/10.1007/978-3-031-36709-0_11).
+
+The paper formalizes the widely used Business Process Modeling Notation (BPMN) which is heavily used for process automation and orchestration in many businesses. Formalizing BPMN reduces the cost of business process automation by facilitating the detection of errors and optimization potentials in process models already during design time before the implementation starts.
+
+Read more about [Tim Kräuter's work](/#Tim Kräuter) and the [Software Engineering research group](/) at HVL.
