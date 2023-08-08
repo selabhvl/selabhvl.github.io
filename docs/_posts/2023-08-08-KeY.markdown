@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "KeY Symposium 2023"
+date:   2023-08-08 9:00:14 +0200
+categories: update
+author: Volker Stolz <vsto@hvl.no>
+---
+True to form, the weather is giving a very *bergensk* welcome to our guests at the [KeY Symposium](https://www.key-project.org/key-symposium/key-symposium-2023/)!
+
+<div style="display:table-cell; vertical-align:middle; text-align:center;">
+<figure style="float: left;  max-width:45%; height:auto;">
+  <img src="https://foldr.org/selabhvl/2023/KeY-opening-VS.jpg" alt="Volker in front of a presentation">
+  <figcaption>Volker Stolz opening the symposium</figcaption>
+</figure>
+<figure style="float: right; max-width:45%; height:auto;">
+   <img src="https://foldr.org/selabhvl/2023/KeY-opening-Reiner.jpg" alt="Reiner Hähnle in front of a presentation">
+   <figcaption>Reiner Hähnle greeting participants</figcaption>
+</figure>
+</div>
+
+<figure>
+	<img src="https://foldr.org/selabhvl/2023/KeY-opening-weather.png" alt="Screenshot of rainy weather forecast">
+	<figcaption>Rain, rain, rain</figcaption>
+</figure>
+We're looking forward to three days packed full of science!
