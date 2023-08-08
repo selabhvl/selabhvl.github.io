@@ -23,3 +23,8 @@ True to form, the weather is giving a very *bergensk* welcome to our guests at t
 	<figcaption>Rain, rain, rain</figcaption>
 </figure>
 We're looking forward to three days packed full of science!
+
+<figure style="max-width:45%; height: auto;">
+	<img src="https://foldr.org/selabhvl/2023/KeY-RSE-Ulbrich.jpg" alt="Mattias Ulbrich">
+	<figcaption><a href="https://formal.kastel.kit.edu/ulbrich/">Mattias Ulbrich (KIT)</a> on "Research Software Engineering", among other things</figcaption>
+</figure>
