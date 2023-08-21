@@ -39,3 +39,8 @@ We're looking forward to three days packed full of science!
 	     <figcaption>Floating-point maths is hard</figcaption>
      </figure>
 </div>
+
+<figure>
+<img src="https://foldr.org/selabhvl/2023/KeY-Gruppebilde.jpg" alt="Group-photo of workshop participants" />
+<figcaption>Group-photo of the workshop participants (photo credit: Siv B. Systad, HVL, <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="Logo of the CC BY-NC-ND license" title="License: CC BY-NC-ND" style="height:1em; vertical-align:middle;" /></a>)</figcaption>
+</figure>
