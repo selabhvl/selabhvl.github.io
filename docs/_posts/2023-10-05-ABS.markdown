@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ABS Workshop on State-of-the-Art of Active Objects, Lyon"
+date:   2023-10-05 12:56:14 +0200
+categories: update
+author: Volker Stolz <vsto@hvl.no>
+---
+Two impressions from the [ABS Workshop](https://edkamb.github.io/ABS_23/) on the state of the art of active objects hosted by Ludovic Henrio with help from Eduard Kamburjan (UiO) at ENS Lyon.
+
+![Violet presenting](https://foldr.org/selabhvl/2023/ABS-Violet.jpg){:class="img-responsive"}
+
+[Violet](/#vpu) presented here work on workflow modeling and analysis in her NFR-funded [CROFLOW](https://croflow.github.io/) project.
+
+Ferruccio Damiani gave an introduction to aggregate computing, something that also [Volker](/#vsto) works on.
+
+![Ferruccio presenting](https://foldr.org/selabhvl/2023/ABS-Ferruccio.jpg){:class="img-responsive"}
+
+[Pre-prints are available](https://edkamb.github.io/ABS_23/merged.pdf) on the workshop-page and should appear in Springer's LNCS shortly;
+our contribution on "Enforced Dependencies for Active Objects" (Violet Ka I Pun, Volker Stolz) starts from page 232.
