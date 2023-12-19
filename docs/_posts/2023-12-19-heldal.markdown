@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Rogardt Heldal and co-authors receive Most Influential Paper-award at MODELS 2023"
+date:   2023-12-19 08:56:14 +0200
+categories: update
+author: Volker Stolz <vsto@hvl.no>
+---
+
+[Rogardt Heldal (HVL)](https://www.hvl.no/en/employee/?user=Rogardt.Heldal) together with his co-authors Jon Whittle, John Hutchinson, Mark Rouncefield, Håkan Burden received the "Most Influential Paper"-award at MODELS 2023 for their 2013 paper:
+"Industrial Adoption of Model-Driven Engineering: Are the Tools Really the Problem?" (MODELS 2013, Springer LNCS vol. 8107, [DOI](https://doi.org/10.1007/978-3-642-41533-3_1)).
+
+Please contact the authors if you don't subscribe to Springer's publications and would like a copy!
+
+<figure style="max-width:85%; height: auto;">
+        <img src="https://www.foldr.org/selabhvl/2023/Heldal-Models23.jpg" alt="Rogardt and Jon">
+        <figcaption><a href="https://www.hvl.no/en/employee/?user=Rogardt.Heldal">Rogardt Heldal (HVL)</a> and Jon Whittle (CSIRO)</figcaption>
+</figure>
+
+Congratulations from the whole Software Engineering group, Rogardt!
