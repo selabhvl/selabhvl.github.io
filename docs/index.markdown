@@ -22,6 +22,7 @@ the University of Extremadura (ES), the [University of Lübeck (DE)](https://www
 Below, you can find a list of our software development efforts and tools that we have released as part of our work and publishing:
 
 * [BPMN Analyzer: Formal analysis of BPMN process models](https://timkraeuter.com/bpmn-analyzer/) ([Github](https://github.com/timKraeuter/Rewrite_Rule_Generation)] [[Article](https://app.cristin.no/results/show.jsf?id=2164613) (preprint)], Tim Kräuter et al.
+* [Visual Debugger: Extending IDEs with visual debugging capabilities](https://plugins.jetbrains.com/plugin/16851-visual-debugger) ([Github](https://github.com/timKraeuter/VisualDebugger)] [[Article](https://app.cristin.no/results/show.jsf?id=2095639) (preprint)], Tim Kräuter et al.
 * [CorrLang](https://www.corrlang.io/) ([Github](https://github.com/webminz/corr-lang)) [[Article](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2837740)], Patrick Stünkel
 * [RplTools]() ([Github](https://github.com/razi236/Rpl-Tools)] [[Article](https://app.cristin.no/results/show.jsf?id=2213248)], Muhammad Rizwan Ali et al.
 * [MBT/CPN: Model-based Testing with Coloured Petri Nets]() ([Github](https://github.com/selabhvl/mbtcpn)) [[Article](https://app.cristin.no/results/show.jsf?id=1645457)], Rui Wang et al.
