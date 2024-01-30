@@ -23,6 +23,7 @@ Below, you can find a list of our software development efforts and tools that we
 
 <!-- TODO: provide as CVS in _data -->
 
+* [**SmartOcean Platform**](https://smartoceanplatform.github.io) ([Github](https://github.com/smartoceanplatform)), Rogardt Heldal, Lars Michael Kristensen, et al.
 * [**BPMN Analyzer**: Formal analysis of BPMN process models](https://timkraeuter.com/bpmn-analyzer/) ([Github](https://github.com/timKraeuter/Rewrite_Rule_Generation)) [[Article](https://app.cristin.no/results/show.jsf?id=2164613) (preprint)], Tim Kräuter et al.
   <details><summary>The BPMN Analyzer is an open-source tool to analyze BPMN process models formally.</summary><p>The Business Process Modeling Notation (BPMN) is a widely used standard notation for defining intra- and inter-organizational workflows. It is used heavily for process automation and orchestration in many businesses. Formalizing BPMN reduces the cost of business process automation by facilitating the detection of errors and optimization potentials in process models already during design time before the implementation starts. </p></details>
 * [**Visual Debugger**: Extending IDEs with visual debugging capabilities](https://plugins.jetbrains.com/plugin/16851-visual-debugger) ([Github](https://github.com/timKraeuter/VisualDebugger)) [[Article](https://app.cristin.no/results/show.jsf?id=2095639) (preprint)], Tim Kräuter et al.
