@@ -18,9 +18,11 @@ Hi, I'm professor in Software Engineering at the Høgskulen på Vestlandet (HVL)
 You can download my [short CV](https://lambda.foldr.org/~vs/stolz-4p.pdf) here,
 or visit [my static institutional page](https://www.hvl.no/person/?user=Volker.Stolz).
 
-I'm also the study program coordinator ("*studieprogramkoordinator*") for our Bachelor program in [Information Technology](https://www.hvl.no/en/studies-at-hvl/study-programmes/information-technology-bergen/) in Bergen.
+I'm also the study program coordinator ("*studieprogramkoordinator*") for our Bachelor program in [Information Technology](https://www.hvl.no/en/studies-at-hvl/study-programmes/information-technology-bergen/) in Bergen, as well as the international exchange-coordinator.
 
 Together with [Håkon Gylteryd](https://hakon.gylterud.net), I'm one of the two national management committee members of the [EuroProofNet](https://europroofnet.github.io) EU COST Action CA20111.
+
+I am also a member of [Formal Methods Europe (FME)](https://www.fmeurope.org).
 
 {:style="clear: both"}
 
@@ -29,6 +31,7 @@ Together with [Håkon Gylteryd](https://hakon.gylterud.net), I'm one of the two 
 * Refactoring
 * Aggregate Programming
 * Runtime Verification
+* Software Engineering
 
 ## Publications
 
