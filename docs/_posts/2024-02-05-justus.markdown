@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Dr. Justus Sagemüller & the Magic 15"
+date:   2024-02-05 14:56:14 +0200
+categories: update
+author: Volker Stolz <vsto@hvl.no>
+---
+
+[Dr. Justus Sagemüller (HVL)](https://www.hvl.no/en/employee/?user=Justus Sagemuller) successfully defended his PhD thesis on "Paths Towards Reliable Explainability In Neural Networks for Image-Processing"! Congratulations!
+
+Justus did a great job defending his work against Stephan Wäldchen & Yufei HAN, and we're very pleased that he already secured a post-doc position at KTH before defending. Nothing says "you're a good scientist" like a decent job-offer!
+
+Justus' thesis monograph is not online yet, but you can read his scientific contribution to the Explainable Artificial Intelligence conference on [Ablation Path Saliency](https://app.cristin.no/results/show.jsf?id=2198271).
+
+Please contact Justus if you don't subscribe to Springer's publications and would like a copy!
+
+<div style="display:table-cell; vertical-align:middle; text-align:center;">
+<figure style="float: left; max-width:45%; height: auto;">
+        <img src="https://www.foldr.org/selabhvl/2024/Justus-24-2.jpg" alt="Justus Sagemüller, vice-dean Stig Erik Jakobsen"/>
+        <figcaption>Justus Sagemüller, vice-dean Stig Erik Jakobsen
+	</figcaption>
+</figure>
+<figure style="float: right; max-width:45%; height: auto;">
+        <img src="https://www.foldr.org/selabhvl/2024/Justus-24-1.jpg" alt="Justus with committee and supervisors Volker Stolz (left), Olivier Verdier (right), Oana Serea from the committee (mid-left)"/>
+        <figcaption>Justus with committee and supervisors Volker Stolz (left), Olivier Verdier (right), Oana Serea from the committee (mid-left)
+	</figcaption>
+</figure>
+</div>
+
+Justus' defense is very special for us as a research group, and for HVL &emdash; this completes the 15 PhD candidates that our PhD programme had promised to NOKUT in the given timeframe, and it is essential for HVL's application to full university status.
+
+<figure>
+	<img src="https://www.foldr.org/selabhvl/2024/Justus-24-15.jpg" alt="Mugshots of 15 successful defenses" />
+	<figcaption>Mugshots of 15 successful defenses</figcaption>
+</figure>
+
+Congratulations from the whole Software Engineering group, Justus!
