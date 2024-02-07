@@ -21,8 +21,8 @@ Please contact Justus if you don't subscribe to Springer's publications and woul
 	</figcaption>
 </figure>
 <figure style="float: right; max-width:45%; height: auto;">
-        <img src="https://www.foldr.org/selabhvl/2024/Justus-24-1.jpg" alt="Justus with committee and supervisors"/>
-        <figcaption>Justus with committee and supervisors
+        <img src="https://www.foldr.org/selabhvl/2024/Justus-24-1.jpg" alt="Justus with committee and supervisors Volker Stolz (left), Olivier Verdier (right), Oana Serea from the committee (mid-left)"/>
+        <figcaption>Justus with committee and supervisors Volker Stolz (left), Olivier Verdier (right), Oana Serea from the committee (mid-left)
 	</figcaption>
 </figure>
 </div>
