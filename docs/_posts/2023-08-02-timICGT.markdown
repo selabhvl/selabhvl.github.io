@@ -20,4 +20,4 @@ The award winning paper has the title «Formalization and Analysis of BPMN Using
 
 The paper formalizes the widely used Business Process Modeling Notation (BPMN) which is heavily used for process automation and orchestration in many businesses. Formalizing BPMN reduces the cost of business process automation by facilitating the detection of errors and optimization potentials in process models already during design time before the implementation starts.
 
-Read more about [Tim Kräuter's work](/#Tim Kräuter) and the [Software Engineering research group](/) at HVL.
+Read more about [Tim Kräuter's work]({{ "/#Tim Kräuter" | uri_escape }}) and the [Software Engineering research group](/) at HVL.
