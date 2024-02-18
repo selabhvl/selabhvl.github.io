@@ -6,7 +6,7 @@ categories: update
 author: Volker Stolz <vsto@hvl.no>
 ---
 
-[Dr. Justus Sagemüller (HVL)](https://www.hvl.no/en/employee/?user=Justus Sagemuller) successfully defended his PhD thesis on "Paths Towards Reliable Explainability In Neural Networks for Image-Processing"! Congratulations!
+[Dr. Justus Sagemüller (HVL)](/#Justus Sagemüller) successfully defended his PhD thesis on "Paths Towards Reliable Explainability In Neural Networks for Image-Processing"! Congratulations!
 
 Justus did a great job defending his work against Stephan Wäldchen & Yufei HAN, and we're very pleased that he already secured a post-doc position at KTH before defending. Nothing says "you're a good scientist" like a decent job-offer!
 
