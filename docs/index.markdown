@@ -34,7 +34,7 @@ Our "institutional home" is <https://www.hvl.no/en/research/group/software-engin
 
 <!-- TODO: should check if /user/ exists if requested here -->
 {%- for member in site.data.members -%}{%- if member.intext == "true" -%}
-* <a name="{{ member.shortname }}" /> {% if member.moreinfohere == "true" -%} [{{ member.displayname }} ({{ member.title }})](/{{ member.shortname }}/) {%- else -%} {{ member.displayname }} ({{ member.title }})  {%- endif %} [[@ HVL](https://www.hvl.no/en/employee/?user={{member.urlname}})]
+* <a id="{{ member.shortname }}" /> {% if member.moreinfohere == "true" -%} [{{ member.displayname }} ({{ member.title }})](/{{ member.shortname }}/) {%- else -%} {{ member.displayname }} ({{ member.title }})  {%- endif %} [[@ HVL](https://www.hvl.no/en/employee/?user={{member.urlname}})]
 {%- unless member.extinfo == "" %} {{member.extinfo}} {% endunless %}
 {% endif %} {% endfor %}
 
@@ -47,6 +47,6 @@ Our "institutional home" is <https://www.hvl.no/en/research/group/software-engin
 ## PhD students
 
 {% for member in site.data.stips -%}
-* <a name="{{ member.displayname | uri_escape }}" />{{ member.displayname }} [[@ HVL](https://www.hvl.no/en/employee/?user={{member.urlname}})]
+* <a id="{{ member.displayname | uri_escape }}" />{{ member.displayname }} [[@ HVL](https://www.hvl.no/en/employee/?user={{member.urlname}})]
 {%- unless member.extinfo == "" %} {{member.extinfo}} {% endunless %}
 {% endfor %}
