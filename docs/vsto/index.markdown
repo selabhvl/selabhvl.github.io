@@ -42,3 +42,8 @@ In [DBLP](https://dblp.org/pid/24/2502.html), in [Cristin](https://app.cristin.n
 * Mobile and distributed application development (Android, cross-platform, aggregate)
 * Model-driven software engineering and reliable software systems
 * Programming languages
+
+## Side-projects
+
+* I dabble in home automation with [Home Assistant](https://www.home-assistant.io), also from a perspective of software engineering for our IoT lab (BSc and MSc-projects)
+* Some pet-projects are now on [Codeberg](https://codeberg.org/fm_volker/) instead of Github.com, like the scraping-tool to check the trash-pickup schedule in Bergen ([BIRscrape](https://codeberg.org/fm_volker/birscrape)).
