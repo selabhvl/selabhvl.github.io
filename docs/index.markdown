@@ -5,6 +5,8 @@
 layout: home
 author: vsto
 ---
+<img src="https://www.hvl.no/contentassets/3c3448a9d64e4be8a1c07c070ce02a77/software.jpg/Large/" alt="eye candy" />
+
 Software engineering and how we develop software play a still more critical role for system development as software technology is becoming pervasive across all areas of society and industry.
 Software engineering is concerned with the concepts, principles, methods and software tools used in the design, implementation, evaluation, deployment, and maintenance of software and IT systems.
 
