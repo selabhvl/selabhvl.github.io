@@ -52,3 +52,9 @@ Our "institutional home" is <https://www.hvl.no/en/research/group/software-engin
 * <a id="{{ member.displayname | uri_escape }}" />{{ member.displayname }} [[@ HVL](https://www.hvl.no/en/employee/?user={{member.urlname}})]
 {%- unless member.extinfo == "" %} {{member.extinfo}} {% endunless %}
 {% endfor %}
+
+## Alumni
+
+{%- for member in site.data.alumni -%}{% unless member.intext == "true" %}
+* {{ member.displayname }} {{member.extinfo}}
+{%- endunless -%} {% endfor %}
