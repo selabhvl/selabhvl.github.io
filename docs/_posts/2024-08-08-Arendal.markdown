@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "We'll be at Arendalsuka!"
+date:   2024-08-08 9:00:14 +0200
+categories: update
+author: Volker Stolz <vsto@hvl.no>
+---
+<img src="https://www.arendalsuka.no/img/logo.svg" width="30%" alt="Arendalsuka logo" />
+
+Our own [Yngve Lamo](https://www.hvl.no/en/employee/?user=Yngve.Lamo) will be at the national ["Arendalsuka"](https://www.arendalsuka.no/programsok/details/24194) in the debate on "Digital Health in Analog Municipalities" (<em>Digital helse i analoge kommuner</em>).
+
+Yngve has background (and opinions) on digital healthcare services, something he and other colleagues are working on here at [HVL](https://hvl.no).
+
+The event should also be streamed on Tuesday, 2024-08-13 17:00 - 17:45, see the link at the top.
+
+Given that this event is full of national and local politicial representatives, maybe Yngve can even find us some money that we desperately need (cuts despite increasing student numbers)...
