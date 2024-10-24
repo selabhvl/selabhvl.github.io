@@ -4,6 +4,7 @@ title:  "Automated Clone Elimination in Python Tests (ISoLA'24)"
 date:   2024-10-15 10:56:14 +0200
 categories: update
 author: Volker Stolz <vsto@hvl.no>
+fediverse: "@fm_volker@mastodon.social"
 ---
 
 My co-author Violet and I are almost on the way to the [ISoLA-conference](https://2024-isola.isola-conference.org) where I will present our work with our excellent MSc student Sebastian Kingston from UiO on "Automated Clone Elimination in Python Tests" in the Automated Software Re-engineering-track!
