@@ -17,3 +17,5 @@ Code clones are a well-known software quality metric with existing tools for det
 
 Preprint: [PDF](https://foldr.org/~vs/slides/isola24-article.pdf)
 Slides: forthcoming
+DOI: [Springer](https://doi.org/10.1007/978-3-031-75387-9_7)
+
