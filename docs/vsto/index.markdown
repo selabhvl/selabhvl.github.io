@@ -15,7 +15,7 @@ github_username: VolkerStolz
 ![](photo.jpg){: style="float: right; padding-left: 1em;"}
 
 Hi, I'm professor in Software Engineering at the Høgskulen på Vestlandet (HVL).
-You can read my short CV below or download a [more comprehensive CV](https://lambda.foldr.org/~vs/stolz-4p.pdf) here,
+You can read [my short CV below](#cv) or download a [more comprehensive CV](https://lambda.foldr.org/~vs/stolz-4p.pdf) here,
 or visit [my static institutional page](https://www.hvl.no/person/?user=Volker.Stolz).
 
 I'm also the study program coordinator ("*studieprogramkoordinator*") for our Bachelor program in [Information Technology](https://www.hvl.no/en/studies-at-hvl/study-programmes/information-technology-bergen/) in Bergen, Førde and Haugesund, as well as the international exchange-coordinator.
@@ -26,7 +26,7 @@ I am a member of [Formal Methods Europe (FME)](https://www.fmeurope.org) and the
 
 {:style="clear: both"}
 
-## CV
+## <a id="cv" />CV
 
 Volker is professor in software engineering at the Høgskulen på Vestlandet (HVL, or "Western Norway University of Applied Sciences") in Bergen, Norway.
 They received their doctoral degree (Dr.rer.nat.) from RWTH Aachen, Germany.
