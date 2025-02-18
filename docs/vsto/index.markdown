@@ -34,7 +34,7 @@ In between, they held research- and teaching positions at the former United Nati
 and the University of Oslo in Norway.
 Their research interests are formal methods in general, and applied to programming language semantics in particular.
 They have published on refactoring, runtime verification, and modeling tools.
-Volker also been involved in various national and international projects, and even more unsuccessful project applications,
+Volker has also been involved in various national and international projects (and quite a few unsuccessful project applications),
 such as the the MSCA Doctoral Network ["Towards an Understanding of Artificial Intelligence (TUAI)"](https://tuai.eu), the EU Horizon 2020 project ["Continuous Observation of Embedded Multicore Systems (COEMS)"](https://coems.eu),
 as well as collaboration with [Guillaume Hiet](https://guillaume.hiet.fr) and [the SUSHI group](https://team.inria.fr/sushi/) at CentralSupélec, Rennes, France, [Martin Leucker's group](https://www.isp.uni-luebeck.de) at the University of Lübeck, Germany, and UFCG, Campina Grande, Brazil.
 
