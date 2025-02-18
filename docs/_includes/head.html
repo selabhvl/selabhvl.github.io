@@ -8,8 +8,8 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  {%- if page.fediverse -%}
-    <meta property="fediverse:creator" name="fediverse:creator" content="{{ page.fediverse }}" />
+  {%- if page.mastodon -%}
+    <meta property="fediverse:creator" name="fediverse:creator" content="@{{ page.mastodon[0].username }}@{{ page.mastodon[0].instance }}" />
   {%- else -%}
     <meta property="fediverse:creator" name="fediverse:creator" content="@selabhvl@fediscience.org" />
   {%- endif -%}
