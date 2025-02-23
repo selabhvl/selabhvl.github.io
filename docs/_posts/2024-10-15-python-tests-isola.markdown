@@ -16,6 +16,6 @@ Our contribution is based on [Sigrid Eldh's observation at an earlier ISoLA](htt
 Code clones are a well-known software quality metric with existing tools for detection and (semi-) automated elimination for common programming languages. While they are usually eliminated by extracting duplicate code into shared methods/functions, we are here looking in particular at Python code for test cases, where clones stem from repeated test cases with primarily different arguments and expected results. In this scenario, the ideal solution is not introducing shared code, but rather using parametrized tests from the unit testing framework. We combine an existing clone detector ([NiCad](https://www.txl.ca/txl-nicaddownload.html)) with our own code transformation that eliminates code clones in Python test cases using the pytest framework. We show the usefulness of our approach by surveying open source Python projects that can benefit from our refactoring and evaluate the performance and correctness of our transformation by comparing unit-test results before and after.
 
 Preprint: [PDF](https://foldr.org/~vs/slides/isola24-article.pdf)
-Slides: forthcoming
+Slides: [PDF](https://foldr.org/~vs/slides/isola24-slides.pdf)
 DOI: [Springer](https://doi.org/10.1007/978-3-031-75387-9_7)
 
