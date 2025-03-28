@@ -9,8 +9,8 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   {%- if page.fediverse -%}
-    <meta property="fediverse:creator" name="fediverse:creator" content="{{ page.fediverse }}" />
+    <meta name="fediverse:creator" content="{{ page.fediverse }}" />
   {%- else -%}
-    <meta property="fediverse:creator" name="fediverse:creator" content="@selabhvl@fediscience.org" />
+    <meta name="fediverse:creator" content="@selabhvl@fediscience.org" />
   {%- endif -%}
 </head>
