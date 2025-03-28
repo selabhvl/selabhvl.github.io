@@ -4,7 +4,6 @@ title:  "New article: `Toward Digital-Twin-Assisted Data Acquisition in Underwat
 date:   2025-03-28 08:56:14 +0100
 categories: science
 author: Volker Stolz <vsto@hvl.no>
-fediverse: "@fm_volker@mastodon.social"
 ---
 
 ## "Toward Digital-Twin-Assisted Data Acquisition in Underwater Acoustic Sensor Networks"

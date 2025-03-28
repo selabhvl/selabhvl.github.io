@@ -4,7 +4,6 @@ title:  "Green Programming Workshop at UiB"
 date:   2024-11-05 7:56:14 +0200
 categories: science
 author: Volker Stolz <vsto@hvl.no>
-fediverse: "@fm_volker@mastodon.social"
 ---
 
 Our friends at the other side of the road, Magne Haveraaen and Mikhail Barash, put on a half-day [workshop on Green Programming Languages](https://github.com/bldl/events/blob/main/2024-11-05.md). Abstracts on the web-page!

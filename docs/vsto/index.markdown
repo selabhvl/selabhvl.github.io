@@ -3,9 +3,7 @@ layout: userpage
 title: Volker Stolz
 author: vsto
 permalink: /vsto/
-mastodon:
-- username: fm_volker
-  instance: mastodon.social
+fediverse: "@fm_volker@mastodon.social"
 github_username: VolkerStolz
 ---
 
