@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "New article: `Toward Digital-Twin-Assisted Data Acquisition in Underwater Acoustic Sensor Networks' (ANT 2025)"
+date:   2025-03-28 08:56:14 +0100
+categories: science
+author: Volker Stolz <vsto@hvl.no>
+fediverse: "@fm_volker@mastodon.social"
+---
+
+## "Toward Digital-Twin-Assisted Data Acquisition in Underwater Acoustic Sensor Networks"
+
+By Ivan Spajić, Lars Michael Kristensen, Volker Stolz
+
+
+[Ivan's](https://www.hvl.no/en/employee/?user={{member.urlname}}) paper at [ANT 2025](https://cs-conferences.acadiau.ca/ant-25/) got accepted!
+
+He will be presenting our work not only on underwater sensors, mind you, shortly.
+Grab our open access [preprint here](https://foldr.org/selabhvl/2025/ant25-preprint.pdf) or at our [institutional repo](https://app.cristin.no/results/show.jsf?id=2360444)!
+
+### Abstract:
+
+  Data transfer from underwater acoustic sensor networks (UASNs) to cloud services is challenging due to the severe bandwidth constraints of acoustic communication and energy consumption constraints of battery-powered sensor devices.
+  To mitigate this problem, various forms of time series compression algorithms, both lossless and lossy, have been proposed in the literature.
+  These proposals, however, focus on large time series whose in-memory buffering is not feasible in a UASN context.
+  Furthermore, especially in oceanographic data acquisition, buffering large time series sacrifices the Age of Information.
+  To address this gap, we evaluate a modern lossy compression algorithm, Mix-Piece, on small-sized time series.
+  Motivated by our findings, we have developed the Custom-Piece algorithm, an adaptation of Mix-Piece that yields higher data compression at the expense of increased execution times.
+  Our experimental evaluation of the Mix-Piece/Custom-Piece algorithms on real-world oceanographic data shows that compression ratios are highly dependent on the configuration of the algorithms due to the emerging characteristics of the underlying data sets.
+  To facilitate practical use of the Mix-Piece/Custom-Piece algorithms, we outline how a digital twin may dynamically run simulations on available past data to support end-users in developing sensor configurations according to data acquisition requirements.
