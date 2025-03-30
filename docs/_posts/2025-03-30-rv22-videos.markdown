@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Runtime Verification 2022 (RV'22) videos"
+date:   2025-03-30 08:56:14 +0100
+categories: science
+author: Volker Stolz <vsto@hvl.no>
+fediverse: "@fm_volker@mastodon.social"
+---
+
+## Videos from the RV'22 Conference on Runtime Verification
+
+I was still sitting on a batch of video-recordings from [Runtime Verification 2022](https://rv22.gitlab.io) that Thao Dang and myself were running in a then slightly more peaceful Georgia.
+
+Most of the authors got the open links to the videos in our CMS at HVL, but I never got around to "officially" posting them somewhere. Now with the malign trawling of content for "AI training"
+(somebody else's business model) I'm having second thoughts, but on the other hand this **is** science so exactly the kind of public content that should got into your machine-readable understanding of the
+world, isn't it?
+
+So here in no particular order (as of 2025-03-30):
+
+* ["Learning by bootstrapping of latents", keynote by Michal Valko](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3c820997-95e1-484e-84eb-af27012eff82)
+* ["Relaxing Safety for Metric First-Order Temporal Logic via Dynamic Free Variables" by Jonathan Julián Huerta y Munive](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=411d6531-4884-4ff1-b431-af2700a2bfa5)
+* ["A Barrier Certificate-Based Simplex Architecture with Application to Microgrids" by Scott Stoller with Amol Damare, Shouvik Roy, Scott A. Smolka](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=14c3b45c-c163-4e2f-8890-af2700a2bbfe)
+* ["Tainting in Smart Contracts: Combining Static and Runtime Verification" by Shaun Azzopardi withJoshua Ellul, Ryan Falzon, Gordon J. Pace](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af161260-cbf6-44de-aa69-af2700a4a3be)
+* ["Anticipatory Recurrent Monitoring with Uncertainty and Assumptions" by Hannes Kallwies with Martin Leucker, César Sánchez, Torben Scheffel](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=262955eb-a7b5-490f-8c24-af27009c4157)
+* ["Runtime Verification of Kotlin Coroutines" by Gerardo Schneider with Denis Furian, Shaun Azzopardi, Yliès Falcone](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5dc7cdef-de89-427d-ae95-af2700a2f88e)
+* ["A Python Library for Trace Analysis", Klaus Havelund with Dennis Dams & Sean Kaufman](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64ff3f7f-bda0-423b-a613-af2700a2fbdc)
+* ["Towards Specificationless Monitoring of Provenance-Emitting Systems", Martin Stoffers with Alexander Weinert](https://hvl.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b34e859-9934-4ea4-aef7-af27012eff88)
+
+More videos forthcoming, as soon as I've cleaned up the meta-data and figured out the right caption-settings!
+
+Enjoy, Volker
