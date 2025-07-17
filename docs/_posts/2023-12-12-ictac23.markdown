@@ -13,6 +13,8 @@ joint work with Ina Motzfeldt (formerly UiO, now Finn.no), Ingrid Chieh Yu (UiO)
 You can find the full paper until end of the year directly from [the ICTAC webpage](https://ictac2023.compsust.utec.edu.pe),
 or in [our full-text repository](https://app.cristin.no/results/show.jsf?id=2212099) once that has been processed.
 
+**Updated 2025-07-17: [Journal version published in TCS!](https://selabhvl.github.io/science,/software/product/lines,/formalization/2025/07/17/ictactcs.html)**
+
 ## "Modular Soundness Checking of Feature Model Evolution Plans"
 A software product line (SPL) is a family of closely related software systems which capitalizes on the variability and reusability of the software products and can be formalised by a feature model. Feature model evolution plans (FMEP) capture the current SPL as well as the planned evolution of the SPL to ensure successful long-term development. As business requirements often change, FMEPs should support interme- diate update. This modification may cause paradoxes in an FMEP, e.g., a node left without a parent, making the plan impossible to realise. Current tools exist to validate FMEPs, but require analysing the entire plan even when a modification affects only small parts of it. Hence, there is a need for a method that detects such paradoxes in a more efficient way. In this paper, we present an interval based feature model (IBFM), a representation for FMEPs, that allows local reasoning to validates only the parts of the plan affected by changes. We define operations for updating the FMEPs and the preconditions under which they preserve soundness, i.e., absence of paradoxes, and show the correctness of the method.
 
