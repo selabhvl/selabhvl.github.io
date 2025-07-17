@@ -2,7 +2,7 @@
 layout: post
 title:  "Theses on connecting RTLola via FMUs and a bit of a null-result on using LLMs for code generation"
 date:   2025-07-16 08:56:14 +0100
-categories: science, llms, runtime verification
+categories: science
 author: Volker Stolz <vsto@hvl.no>
 fediverse: "@fm_volker@mastodon.social"
 ---
