@@ -47,6 +47,10 @@ as well as collaboration with [Guillaume Hiet](https://guillaume.hiet.fr) and [t
 
 In [DBLP](https://dblp.org/pid/24/2502.html), in [Cristin](https://app.cristin.no/persons/show.jsf?id=1721) (Norwegian research database, includes pre-prints!).
 
+### Current PhD student(s)
+
+* <a href="/#Ivan%20Spaji%C4%87">Ivan Spajić</a>
+
 ## Teaching
 
 * Mobile and distributed application development [DAT153](https://www.hvl.no/en/studies-at-hvl/study-programmes/courses/2025/dat153/) (Android, cross-platform, aggregate)
