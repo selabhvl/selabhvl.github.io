@@ -15,7 +15,7 @@ Again there's a Maude-artefact in case you want to play with it: [https://github
 
 Our Phd student Ivan had a submission on "Ruleless Digital Twins" together with Volker at [DataMod](https://datamod-symposium.github.io/DataMod-2025/) accepted (co-located with SEFM). Also there we have
 a [pre-preprint](https://foldr.org/selabhvl/2025/2025-datamod-prepreprint.pdf) and an [artefact](https://github.com/ivanspajic/ruleless-digital-twins).
-We also had a fun time finding and submitting bugfixes for Open Modelica and the [C# bindings for FMI](https://github.com/selabhvl/vsto-Femyou).
+We also had a fun time finding and submitting bugfixes for Open Modelica and the [C# bindings for FMI](https://codeberg.org/SELab_HVL/vsto-Femyou).
 
 ---
 
@@ -40,3 +40,9 @@ and subsequently demonstrate the feasibility of our approach. We discuss benefit
 DT decision making ultimately rests on an effective method of choosing from a multitude of possibilities. Lastly, we consider potential future
 work and exploration in the context of more effective automation and
 simulation model usage.
+
+---
+
+#### Updates
+
+* 2025-12-25: Moved Femyou-fork to Codeberg
