@@ -18,7 +18,7 @@ or visit [my static institutional page](https://www.hvl.no/person/?user=Volker.S
 
 I'm also the study program coordinator ("*studieprogramkoordinator*") for our Bachelor program in [Information Technology](https://www.hvl.no/en/studies-at-hvl/study-programmes/information-technology-bergen/) in Bergen, Førde and Haugesund, as well as the international exchange-coordinator.
 
-Together with [Håkon Gylteryd](https://hakon.gylterud.net), I'm one of the two national management committee members of the [EuroProofNet](https://europroofnet.github.io) EU COST Action CA20111.
+Together with [Håkon Gylteryd](https://hakon.gylterud.net), I was one of the two national management committee members of the [EuroProofNet](https://europroofnet.github.io) EU COST Action CA20111.
 
 I am a member of [Formal Methods Europe (FME)](https://www.fmeurope.org) and the [European Association for Programming Languages and Systems (EAPLS)](https://eapls.org).
 
@@ -45,7 +45,7 @@ as well as collaboration with [Guillaume Hiet](https://guillaume.hiet.fr) and [t
 
 ## Publications
 
-In [DBLP](https://dblp.org/pid/24/2502.html), in [Cristin](https://app.cristin.no/persons/show.jsf?id=1721) (Norwegian research database, includes pre-prints!).
+In [DBLP](https://dblp.org/pid/24/2502.html), in [NVA](https://nva.sikt.no/research-profile/1721) (Norwegian research database, includes pre-prints!).
 
 ### Current PhD student(s)
 
@@ -55,7 +55,7 @@ In [DBLP](https://dblp.org/pid/24/2502.html), in [Cristin](https://app.cristin.n
 
 * Mobile and distributed application development [DAT153](https://www.hvl.no/en/studies-at-hvl/study-programmes/courses/2025/dat153/) (Android, cross-platform, aggregate)
 * Model-driven software engineering and reliable software systems [DAT355](https://www.hvl.no/en/studies-at-hvl/study-programmes/courses/2025/dat355/)
-* Programming languages [IN3040 at UiO](https://www.uio.no/studier/emner/matnat/ifi/IN3040/index-eng.html)
+* Programming languages [IN3040 at UiO](https://www.uio.no/studier/emner/matnat/ifi/IN3040/index-eng.html) (2010-2025)
 
 ## Side-projects
 
