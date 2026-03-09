@@ -14,8 +14,8 @@ From our crew, in 2023 already Violet Ka I Pun and Lars Michael Kristensen recei
 
 <div style="display:table-cell; vertical-align:middle; text-align:center;">
 <figure style="float: left; max-width:45%; height: auto;">
-        <img src="https://cloud.elang.de/apps/files_sharing/publicpreview/tN9pFPWBGyayyTg?file=/&fileId=205620&x=1545&y=952&a=true&etag=f7b940d129362f0e9edadcfe3d6d0369" alt="Lars Michael Kristensen, Major Linn Kristin Eng&oslash;, Violet Ka I Pun (left-to-right, 2023)"/>
-        <figcaption>Lars Michael Kristensen, Major Linn Kristin Eng&oslash;, Violet Ka I Pun (left-to-right, 2023)
+        <img src="https://cloud.elang.de/apps/files_sharing/publicpreview/tN9pFPWBGyayyTg?file=/&fileId=205620&x=1545&y=952&a=true&etag=f7b940d129362f0e9edadcfe3d6d0369" alt="Lars Michael Kristensen, Mayor Linn Kristin Eng&oslash;, Violet Ka I Pun (left-to-right, 2023)"/>
+        <figcaption>Lars Michael Kristensen, Mayor Linn Kristin Eng&oslash;, Violet Ka I Pun (left-to-right, 2023)
 	</figcaption>
 </figure>
 <figure style="float: right; max-width:45%; height: auto;">
