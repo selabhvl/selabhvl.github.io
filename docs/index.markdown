@@ -30,6 +30,7 @@ the University of Extremadura (ES), the [University of Lübeck (DE)](https://www
 
 Our "institutional home" is <https://www.hvl.no/en/research/group/software-engineering/>.
 
+## →[Completed MSc theses 2026](/2026/msc)←
 ## Group members
 <!-- as per https://www.hvl.no/en/research/group/software-engineering/ -->
 <!-- https://shopify.github.io/liquid/tags/control-flow/ -->
