@@ -33,8 +33,6 @@ mastodon:
   instance: fediscience.org
 
 # Build settings
-sass:
-  sass_dir: _sass
 theme: minima
 plugins:
   - jekyll-feed
