@@ -28,7 +28,7 @@ Linux 9b6cbdd01dd1 6.12.76-linuxkit #1 SMP Mon Mar 30 09:10:35 UTC 2026 x86_64 L
 / # exit
 %
 ```
-Note that it’s “x86_64” even though you might now have an x86-based processor like the newer Apple Macs!
+Note that it’s “x86_64” even though you might not have an x86-based processor like the newer Apple Macs or an ARM64-based system!
 
 ## 3) Reusing the container
 ```
