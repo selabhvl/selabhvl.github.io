@@ -1,13 +1,22 @@
-# Small Linux installation with Alpine in Docker
+---
+layout: page
+title: '[DAT103] Small Linux installation with Alpine in Docker'
+last_modified_at: 2026-08-12
+author: vsto
+fediverse: "@fm_volker@mastodon.social"
+---
+
+We'll use [Docker Desktop](https://docker.com) to run a small virtual machine (VM) that you can use to experiment with a Linux-system,
+either if you're not running a Linux-like system yourself,
+or if you want to avoid accidentally misconfiguring your Linux installation.
+This way, you can try out some of the material in the course at home before you run it on the hosted VM at HVL.
 
 Prompts: `%` = “outside” (use Linux, MacOS or Windows Powershell), `#` = administrator shell inside the container
 
 ## 1) Create basic container.
 
-Note for Windows: use `${env:TMP}` instead of the `/tmp`.
-
 ```
-% docker run -it --name dat103 --platform linux/amd64 -v /tmp:/app alpine:latest
+% docker run -it --name dat103 --platform linux/amd64 alpine:latest
 ```
 
 Output:
@@ -59,14 +68,6 @@ The error message related to `/sys/fs` doesn't matter for us here.
 ```
 / # apk add vim nasm build-base openrc openssh
 … output …
-/ # rc-status
- * Caching service dependencies ...
-Service 'hwdrivers' needs non existent service 'dev'
-Service 'machine-id' needs non existent service 'dev'                                                                                                                                      [ ok ]
-Runlevel: sysinit
-Dynamic Runlevel: hotplugged
-Dynamic Runlevel: needed/wanted
-Dynamic Runlevel: manual
 / # rc-update add sshd
  * service sshd added to runlevel sysinit
 / # rc-status
@@ -81,7 +82,7 @@ ssh-keygen: generating new host keys: RSA ECDSA ED25519
  * Starting sshd ...                                                                                                                                                                       [ ok ]
 / #
 ```
-… and next we'll make a check-point, because we’re going to mess something up eventually :-) We will still always have to restart sshd in this image, but the key for the virtual machine has been generated now and will hence stay the same.
+… and next we'll make a check-point, because we’re going to mess something up eventually :-) We will still always have to restart sshd when we reuse this image in the future, but the ssh server-key for the virtual machine has been generated now and will hence stay the same.
 ```
 / # exit
 ```
@@ -89,8 +90,9 @@ We ask Docker to remember the current state of the filesystem of the **container
 Then we delete the old container, and start a fresh one from the new image, with an additional option to be able to talk to the ssh-server inside.
 For that, we'll *publish* the network port for ssh on the inside (22) as port 2222 outside (but only on the `localhost`-interface, not the whole wide world in general).
 
-We also put the public part of our ssh key where Docker can see it.
-On Windows, your `cp`-command will look slightly differently, and remember to replace `/tmp` with `${env:TMP}` as before.
+We also put the public part of our ssh key where Docker can see it, by sharing a directory into the VM.
+On Windows, your `cp`-command will look slightly differently: replace `/tmp` with `${env:TMP}` and do the same to the `docker ... -v /tmp:...`.
+
 
 ```
 % docker commit dat103 dat103
@@ -122,3 +124,18 @@ Welcome to Alpine!
 ...
 1234567890:~#
 ```
+
+You have now a container where you can experiment with shell commands,
+practiced managing your ssh-key and we can use it later for the
+assembly oblig.
+
+## 7) Exercise
+
+Note how me made the snapshot/check-point of the container *before* you added the public part of your personal ssh-key to the filesystem.
+
+Update the `dat103` *image* again using `docker commit` so that in the future you have your key in there! Remember that you'll first have to stop the container. How did you check afterwards that when you create a new container from the new image your public key is actually there?
+
+### Remarks
+
+In practice, preparing containers for others is usually *not* done interactively with `docker commit`.
+Instead, you would write a [`Dockerfile`](https://docs.docker.com/reference/dockerfile/) which scripts the steps you do in the container.

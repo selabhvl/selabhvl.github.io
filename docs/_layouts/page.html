@@ -11,4 +11,9 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if page.last_modified_at -%}
+  <hr />
+  <p style="font-size: small;">Last modified: {{ page.last_modified_at }}</p>
+  {%- endif -%}
+
 </article>
