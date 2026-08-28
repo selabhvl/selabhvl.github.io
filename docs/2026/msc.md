@@ -27,6 +27,6 @@ fediverse: "@fm_volker@mastodon.social"
 Jørgen Aspehaug Bjerkan, **"Developing AI technology for automatic control of iot devices in smart homes"** Supervisor(s): Volker Stolz, Adrian Rutle. Examiners: Lukas Esterle. ([Thesis](https://hdl.handle.net/11250/3147735) 🔒)
 
 ---
-🔒: Students can choose to restrict online-access to their thesis. For theses in the joint Master programme in Software Engineering with the University of Bergen (UiB), you can request a personal copy here: https://www.uib.no/foransatte/183469/offentlig-journal-og-innsyn
+🔒: Students can choose to restrict online-access to their thesis. For theses in the joint Master programme in Software Engineering with the University of Bergen (UiB), you can request a personal copy here: [https://www.uib.no/foransatte/183469/offentlig-journal-og-innsyn](https://www.uib.no/foransatte/183469/offentlig-journal-og-innsyn)
 
 <!-- TODO: use a csv... -->
