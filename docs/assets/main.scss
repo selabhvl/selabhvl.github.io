@@ -9,4 +9,8 @@
   max-width: none;
 }
 
-
+@media print {
+    .site-footer {
+	display: none !important;
+    }
+}
